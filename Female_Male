@@ -1,0 +1,14 @@
+{  
+   "item":[  
+      {  
+         "value":46,
+         "label":"Female",
+         "color":"13699c"
+      },
+      {  
+         "value":54,
+         "label":"Male",
+         "color":"198acd"
+      }
+   ]
+}
